@@ -4,6 +4,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 
 ## People
 
+- Accessibility in the news [@a11ynews](https://twitter.com/a11ynews)
 - Adrian Roselli [@aardrian](https://twitter.com/aardrian)
 - Alice Boxhall [@sundress](https://twitter.com/sundress)
 - Alistair Duggin [@dugboticus](https://twitter.com/dugboticus)
